@@ -32,4 +32,6 @@ npm install @x-currency/xbase91 --save
 node test/example.js
 ```
 
+### X Currency?
+https://www.reddit.com/r/xcurrencyecosystem
 
