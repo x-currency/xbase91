@@ -1,0 +1,12 @@
+{
+  "name": "@x-currency/xbase85",
+  "type": "module",
+  "version": "1.0.3",
+  "description": "Most Efficient JSON Friendly Byte Encoder ~ JavaScript Base85 Encoding Implementation using Z85's alphabet (no backward slash and quotes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neil-yoga",
+  "license": "ISC"
+}
